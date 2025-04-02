@@ -1,4 +1,9 @@
 public class ClassicalMusicService implements MusicService  {
+<<<<<<< Updated upstream
+=======
+    //commit for the classical class
+    //commit for the rest 
+>>>>>>> Stashed changes
     // Implementation of MusicService for playing classical music.
     public void playMusic() {
         +"2.Bebop \n"
