@@ -6,7 +6,7 @@ public class Main { // Main class to demonstrate Dependency Injection with flexi
             MusicPlayer classicalPlayer = new MusicPlayer(classicalService);
         // Call the play method, which plays classical music.
         classicalPlayer.play();
-
+// commit for the main class part 1
         System.out.println("------------------------------------------------------------");
         // Create an instance of the JazzMusicService implementation.
             MusicService jazzService = new JazzMusicService();
